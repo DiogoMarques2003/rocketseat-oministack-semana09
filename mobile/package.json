@@ -10,8 +10,8 @@
   "dependencies": {
     "axios": "^0.21.3",
     "expo": "~36.0.0",
-    "react": "~16.9.0",
-    "react-dom": "~16.9.0",
+    "react": "~16.14.0",
+    "react-dom": "~16.14.0",
     "react-native": "0.64.2",
     "react-native-gesture-handler": "~1.10.3",
     "react-native-reanimated": "~1.13.3",
